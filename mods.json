@@ -1,0 +1,19 @@
+{
+  "mods": [
+    {
+      "name": "mod1",
+      "version": "1.0.0",
+      "url": "https://example.com/mod1-1.0.0.jar"
+    },
+    {
+      "name": "mod2",
+      "version": "2.3.4",
+      "url": "https://example.com/mod2-2.3.4.jar"
+    },
+    {
+      "name": "mod3",
+      "version": "0.9.1",
+      "url": "https://example.com/mod3-0.9.1.jar"
+    }
+  ]
+}
